@@ -65,5 +65,5 @@ If clipboard copy does not work on your system, make sure `pyperclip` is install
 
 ## Author
 
-**Mr. Velox**  
+**Haider A.H**  
 GitHub: https://github.com/h5d7r
